@@ -9,8 +9,8 @@
 #include <NeoPixelBus.h>
 #include <NeoPixelAnimator.h>
 
-char ssid[] = "Orange-MhP7-2.4G";
-char pass[] = "yM7nh2k5";
+char ssid[] = //"your wifi name";
+char pass[] = //"your wifi password";
 
 int anim = 0; // Current animation number
 float maxBrightness = 0.4f; // Adjustable brightness
