@@ -30,4 +30,4 @@ Setup & Installation
     Power the RGB matrix and start customizing the animations!
 
 Demo
-[![Demo Video](https://github.com/Moro714/WiFiGlowGrid/blob/main/1.mp4)
+![Preview](./1.gif)
