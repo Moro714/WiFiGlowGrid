@@ -29,5 +29,5 @@ Setup & Installation
     Configure the Blynk app to connect to the device.
     Power the RGB matrix and start customizing the animations!
 
-Demo
 ![Preview](./1.gif)
+![Preview](./2.gif)
