@@ -28,3 +28,6 @@ Setup & Installation
     Flash the provided Arduino script to the ESP8266.
     Configure the Blynk app to connect to the device.
     Power the RGB matrix and start customizing the animations!
+
+Demo
+[![Demo Video](https://github.com/Moro714/WiFiGlowGrid/blob/main/1.mp4)
